@@ -1,0 +1,1 @@
+# Dinamik-Bellek-Yonetimi-ve-Tensor-Sistemi
